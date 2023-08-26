@@ -2,6 +2,13 @@ body{
     background-color: #fff;
 }
 
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
 .card{
     background-color: #eee;
     width: 200px;
